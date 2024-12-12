@@ -25,7 +25,7 @@ export default function Home() {
       <div
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
-        <h1>Change</h1>
+        <h1>Change on development</h1>
       </div>
     </>
   );
